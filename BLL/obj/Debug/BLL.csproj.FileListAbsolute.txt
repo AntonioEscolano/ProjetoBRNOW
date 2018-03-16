@@ -1,0 +1,360 @@
+W:\SISPEC\BLL\bin\Debug\BLL.dll
+W:\SISPEC\BLL\bin\Debug\BLL.pdb
+W:\SISPEC\BLL\obj\Debug\BLL.dll
+W:\SISPEC\BLL\obj\Debug\BLL.pdb
+W:\SISPEC\BLL\bin\Debug\DAL.dll
+W:\SISPEC\BLL\bin\Debug\DAL.pdb
+W:\SISPEC\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+W:\SISPEC\BLL\bin\Debug\Entidades.dll
+W:\SISPEC\BLL\bin\Debug\Entidades.pdb
+W:\SISPEC\BLL\bin\Debug\RaiCore.dll
+W:\SISPEC\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+W:\SISPEC\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+W:\SISPEC\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+W:\MAG\BLL\bin\Debug\BLL.dll
+W:\MAG\BLL\bin\Debug\BLL.pdb
+W:\MAG\BLL\bin\Debug\DAL.dll
+W:\MAG\BLL\bin\Debug\Entidades.dll
+W:\MAG\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+W:\MAG\BLL\bin\Debug\RaiCore.dll
+W:\MAG\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+W:\MAG\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+W:\MAG\BLL\bin\Debug\DAL.pdb
+W:\MAG\BLL\bin\Debug\Entidades.pdb
+W:\MAG\BLL\bin\Debug\RaiCore.pdb
+W:\MAG\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+W:\MAG\BLL\obj\Debug\BLL.dll
+W:\MAG\BLL\obj\Debug\BLL.pdb
+C:\Users\Rai\Desktop\ExemploEstrutura\BLL\bin\Debug\BLL.dll
+C:\Users\Rai\Desktop\ExemploEstrutura\BLL\bin\Debug\BLL.pdb
+C:\Users\Rai\Desktop\ExemploEstrutura\BLL\bin\Debug\DAL.dll
+C:\Users\Rai\Desktop\ExemploEstrutura\BLL\bin\Debug\Entidades.dll
+C:\Users\Rai\Desktop\ExemploEstrutura\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Rai\Desktop\ExemploEstrutura\BLL\bin\Debug\RaiCore.dll
+C:\Users\Rai\Desktop\ExemploEstrutura\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Rai\Desktop\ExemploEstrutura\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\Rai\Desktop\ExemploEstrutura\BLL\bin\Debug\DAL.pdb
+C:\Users\Rai\Desktop\ExemploEstrutura\BLL\bin\Debug\Entidades.pdb
+C:\Users\Rai\Desktop\ExemploEstrutura\BLL\bin\Debug\RaiCore.pdb
+C:\Users\Rai\Desktop\ExemploEstrutura\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Rai\Desktop\ExemploEstrutura\BLL\obj\Debug\BLL.dll
+C:\Users\Rai\Desktop\ExemploEstrutura\BLL\obj\Debug\BLL.pdb
+W:\ExemploEstrutura\BLL\bin\Debug\BLL.dll
+W:\ExemploEstrutura\BLL\bin\Debug\BLL.pdb
+W:\ExemploEstrutura\BLL\bin\Debug\DAL.dll
+W:\ExemploEstrutura\BLL\bin\Debug\Entidades.dll
+W:\ExemploEstrutura\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+W:\ExemploEstrutura\BLL\bin\Debug\RaiCore.dll
+W:\ExemploEstrutura\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+W:\ExemploEstrutura\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+W:\ExemploEstrutura\BLL\bin\Debug\DAL.pdb
+W:\ExemploEstrutura\BLL\bin\Debug\Entidades.pdb
+W:\ExemploEstrutura\BLL\bin\Debug\RaiCore.pdb
+W:\ExemploEstrutura\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+W:\ExemploEstrutura\BLL\obj\Debug\BLL.dll
+W:\ExemploEstrutura\BLL\obj\Debug\BLL.pdb
+D:\Biblioteca\ExemploEstrutura - .Net\BLL\bin\Debug\BLL.dll
+D:\Biblioteca\ExemploEstrutura - .Net\BLL\bin\Debug\BLL.pdb
+D:\Biblioteca\ExemploEstrutura - .Net\BLL\bin\Debug\DAL.dll
+D:\Biblioteca\ExemploEstrutura - .Net\BLL\bin\Debug\Entidades.dll
+D:\Biblioteca\ExemploEstrutura - .Net\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Biblioteca\ExemploEstrutura - .Net\BLL\bin\Debug\RaiCore.dll
+D:\Biblioteca\ExemploEstrutura - .Net\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\Biblioteca\ExemploEstrutura - .Net\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Biblioteca\ExemploEstrutura - .Net\BLL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Biblioteca\ExemploEstrutura - .Net\BLL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Biblioteca\ExemploEstrutura - .Net\BLL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Biblioteca\ExemploEstrutura - .Net\BLL\bin\Debug\DAL.pdb
+D:\Biblioteca\ExemploEstrutura - .Net\BLL\bin\Debug\Entidades.pdb
+D:\Biblioteca\ExemploEstrutura - .Net\BLL\bin\Debug\RaiCore.pdb
+D:\Biblioteca\ExemploEstrutura - .Net\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\Biblioteca\ExemploEstrutura - .Net\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Biblioteca\ExemploEstrutura - .Net\BLL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Biblioteca\ExemploEstrutura - .Net\BLL\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\Biblioteca\ExemploEstrutura - .Net\BLL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\Biblioteca\ExemploEstrutura - .Net\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Biblioteca\ExemploEstrutura - .Net\BLL\obj\Debug\BLL.dll
+D:\Biblioteca\ExemploEstrutura - .Net\BLL\obj\Debug\BLL.pdb
+D:\Área de Trabalho\controleEntrega\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Área de Trabalho\controleEntrega\BLL\bin\Debug\BLL.dll
+D:\Área de Trabalho\controleEntrega\BLL\bin\Debug\BLL.pdb
+D:\Área de Trabalho\controleEntrega\BLL\bin\Debug\DAL.dll
+D:\Área de Trabalho\controleEntrega\BLL\bin\Debug\Entidades.dll
+D:\Área de Trabalho\controleEntrega\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Área de Trabalho\controleEntrega\BLL\bin\Debug\RaiCore.dll
+D:\Área de Trabalho\controleEntrega\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Área de Trabalho\controleEntrega\BLL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Área de Trabalho\controleEntrega\BLL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Área de Trabalho\controleEntrega\BLL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Área de Trabalho\controleEntrega\BLL\bin\Debug\DAL.pdb
+D:\Área de Trabalho\controleEntrega\BLL\bin\Debug\Entidades.pdb
+D:\Área de Trabalho\controleEntrega\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+D:\Área de Trabalho\controleEntrega\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\Área de Trabalho\controleEntrega\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\Área de Trabalho\controleEntrega\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Área de Trabalho\controleEntrega\BLL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Área de Trabalho\controleEntrega\BLL\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\Área de Trabalho\controleEntrega\BLL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\Área de Trabalho\controleEntrega\BLL\obj\Debug\BLL.dll
+D:\Área de Trabalho\controleEntrega\BLL\obj\Debug\BLL.pdb
+D:\Área de Trabalho\controleEntregaSantander\BLL\bin\Debug\BLL.dll
+D:\Área de Trabalho\controleEntregaSantander\BLL\bin\Debug\BLL.pdb
+D:\Área de Trabalho\controleEntregaSantander\BLL\bin\Debug\DAL.dll
+D:\Área de Trabalho\controleEntregaSantander\BLL\bin\Debug\Entidades.dll
+D:\Área de Trabalho\controleEntregaSantander\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Área de Trabalho\controleEntregaSantander\BLL\bin\Debug\RaiCore.dll
+D:\Área de Trabalho\controleEntregaSantander\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Área de Trabalho\controleEntregaSantander\BLL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Área de Trabalho\controleEntregaSantander\BLL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Área de Trabalho\controleEntregaSantander\BLL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Área de Trabalho\controleEntregaSantander\BLL\bin\Debug\DAL.pdb
+D:\Área de Trabalho\controleEntregaSantander\BLL\bin\Debug\Entidades.pdb
+D:\Área de Trabalho\controleEntregaSantander\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+D:\Área de Trabalho\controleEntregaSantander\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\Área de Trabalho\controleEntregaSantander\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\Área de Trabalho\controleEntregaSantander\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Área de Trabalho\controleEntregaSantander\BLL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Área de Trabalho\controleEntregaSantander\BLL\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\Área de Trabalho\controleEntregaSantander\BLL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\Área de Trabalho\controleEntregaSantander\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Área de Trabalho\controleEntregaSantander\BLL\obj\Debug\BLL.dll
+D:\Área de Trabalho\controleEntregaSantander\BLL\obj\Debug\BLL.pdb
+W:\controleEntregaSantander\BLL\bin\Debug\BLL.dll
+W:\controleEntregaSantander\BLL\bin\Debug\BLL.pdb
+W:\controleEntregaSantander\BLL\bin\Debug\DAL.dll
+W:\controleEntregaSantander\BLL\bin\Debug\Entidades.dll
+W:\controleEntregaSantander\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+W:\controleEntregaSantander\BLL\bin\Debug\RaiCore.dll
+W:\controleEntregaSantander\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+W:\controleEntregaSantander\BLL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+W:\controleEntregaSantander\BLL\bin\Debug\Microsoft.Practices.Unity.dll
+W:\controleEntregaSantander\BLL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+W:\controleEntregaSantander\BLL\bin\Debug\DAL.pdb
+W:\controleEntregaSantander\BLL\bin\Debug\Entidades.pdb
+W:\controleEntregaSantander\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+W:\controleEntregaSantander\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+W:\controleEntregaSantander\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+W:\controleEntregaSantander\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+W:\controleEntregaSantander\BLL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+W:\controleEntregaSantander\BLL\bin\Debug\Microsoft.Practices.Unity.pdb
+W:\controleEntregaSantander\BLL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+W:\controleEntregaSantander\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+W:\controleEntregaSantander\BLL\obj\Debug\BLL.dll
+W:\controleEntregaSantander\BLL\obj\Debug\BLL.pdb
+S:\controleEntregaSantander\BLL\bin\Debug\BLL.dll
+S:\controleEntregaSantander\BLL\bin\Debug\BLL.pdb
+S:\controleEntregaSantander\BLL\bin\Debug\DAL.dll
+S:\controleEntregaSantander\BLL\bin\Debug\Entidades.dll
+S:\controleEntregaSantander\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+S:\controleEntregaSantander\BLL\bin\Debug\RaiCore.dll
+S:\controleEntregaSantander\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+S:\controleEntregaSantander\BLL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+S:\controleEntregaSantander\BLL\bin\Debug\Microsoft.Practices.Unity.dll
+S:\controleEntregaSantander\BLL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+S:\controleEntregaSantander\BLL\bin\Debug\DAL.pdb
+S:\controleEntregaSantander\BLL\bin\Debug\Entidades.pdb
+S:\controleEntregaSantander\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+S:\controleEntregaSantander\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+S:\controleEntregaSantander\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+S:\controleEntregaSantander\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+S:\controleEntregaSantander\BLL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+S:\controleEntregaSantander\BLL\bin\Debug\Microsoft.Practices.Unity.pdb
+S:\controleEntregaSantander\BLL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+S:\controleEntregaSantander\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+S:\controleEntregaSantander\BLL\obj\Debug\BLL.dll
+S:\controleEntregaSantander\BLL\obj\Debug\BLL.pdb
+C:\Users\ethiene.nobre\Desktop\SANTANDER-MAQUINA\POSITIVADOR\BK- POSITIVADOR\controleEntregaSantanderBK\BLL\bin\Debug\BLL.dll
+C:\Users\ethiene.nobre\Desktop\SANTANDER-MAQUINA\POSITIVADOR\BK- POSITIVADOR\controleEntregaSantanderBK\BLL\bin\Debug\BLL.pdb
+C:\Users\ethiene.nobre\Desktop\SANTANDER-MAQUINA\POSITIVADOR\BK- POSITIVADOR\controleEntregaSantanderBK\BLL\bin\Debug\DAL.dll
+C:\Users\ethiene.nobre\Desktop\SANTANDER-MAQUINA\POSITIVADOR\BK- POSITIVADOR\controleEntregaSantanderBK\BLL\bin\Debug\Entidades.dll
+C:\Users\ethiene.nobre\Desktop\SANTANDER-MAQUINA\POSITIVADOR\BK- POSITIVADOR\controleEntregaSantanderBK\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\ethiene.nobre\Desktop\SANTANDER-MAQUINA\POSITIVADOR\BK- POSITIVADOR\controleEntregaSantanderBK\BLL\bin\Debug\RaiCore.dll
+C:\Users\ethiene.nobre\Desktop\SANTANDER-MAQUINA\POSITIVADOR\BK- POSITIVADOR\controleEntregaSantanderBK\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\ethiene.nobre\Desktop\SANTANDER-MAQUINA\POSITIVADOR\BK- POSITIVADOR\controleEntregaSantanderBK\BLL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\ethiene.nobre\Desktop\SANTANDER-MAQUINA\POSITIVADOR\BK- POSITIVADOR\controleEntregaSantanderBK\BLL\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\ethiene.nobre\Desktop\SANTANDER-MAQUINA\POSITIVADOR\BK- POSITIVADOR\controleEntregaSantanderBK\BLL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\ethiene.nobre\Desktop\SANTANDER-MAQUINA\POSITIVADOR\BK- POSITIVADOR\controleEntregaSantanderBK\BLL\bin\Debug\DAL.pdb
+C:\Users\ethiene.nobre\Desktop\SANTANDER-MAQUINA\POSITIVADOR\BK- POSITIVADOR\controleEntregaSantanderBK\BLL\bin\Debug\Entidades.pdb
+C:\Users\ethiene.nobre\Desktop\SANTANDER-MAQUINA\POSITIVADOR\BK- POSITIVADOR\controleEntregaSantanderBK\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\ethiene.nobre\Desktop\SANTANDER-MAQUINA\POSITIVADOR\BK- POSITIVADOR\controleEntregaSantanderBK\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\ethiene.nobre\Desktop\SANTANDER-MAQUINA\POSITIVADOR\BK- POSITIVADOR\controleEntregaSantanderBK\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\ethiene.nobre\Desktop\SANTANDER-MAQUINA\POSITIVADOR\BK- POSITIVADOR\controleEntregaSantanderBK\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\ethiene.nobre\Desktop\SANTANDER-MAQUINA\POSITIVADOR\BK- POSITIVADOR\controleEntregaSantanderBK\BLL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\ethiene.nobre\Desktop\SANTANDER-MAQUINA\POSITIVADOR\BK- POSITIVADOR\controleEntregaSantanderBK\BLL\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\ethiene.nobre\Desktop\SANTANDER-MAQUINA\POSITIVADOR\BK- POSITIVADOR\controleEntregaSantanderBK\BLL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\ethiene.nobre\Desktop\SANTANDER-MAQUINA\POSITIVADOR\BK- POSITIVADOR\controleEntregaSantanderBK\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\ethiene.nobre\Desktop\SANTANDER-MAQUINA\POSITIVADOR\BK- POSITIVADOR\controleEntregaSantanderBK\BLL\obj\Debug\BLL.dll
+C:\Users\ethiene.nobre\Desktop\SANTANDER-MAQUINA\POSITIVADOR\BK- POSITIVADOR\controleEntregaSantanderBK\BLL\obj\Debug\BLL.pdb
+C:\Users\ethiene.nobre\Desktop\LIBERTY\BRINDES\SISTEMA\BLL\bin\Debug\BLL.dll
+C:\Users\ethiene.nobre\Desktop\LIBERTY\BRINDES\SISTEMA\BLL\bin\Debug\BLL.pdb
+C:\Users\ethiene.nobre\Desktop\LIBERTY\BRINDES\SISTEMA\BLL\bin\Debug\DAL.dll
+C:\Users\ethiene.nobre\Desktop\LIBERTY\BRINDES\SISTEMA\BLL\bin\Debug\Entidades.dll
+C:\Users\ethiene.nobre\Desktop\LIBERTY\BRINDES\SISTEMA\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\ethiene.nobre\Desktop\LIBERTY\BRINDES\SISTEMA\BLL\bin\Debug\RaiCore.dll
+C:\Users\ethiene.nobre\Desktop\LIBERTY\BRINDES\SISTEMA\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\ethiene.nobre\Desktop\LIBERTY\BRINDES\SISTEMA\BLL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\ethiene.nobre\Desktop\LIBERTY\BRINDES\SISTEMA\BLL\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\ethiene.nobre\Desktop\LIBERTY\BRINDES\SISTEMA\BLL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\ethiene.nobre\Desktop\LIBERTY\BRINDES\SISTEMA\BLL\bin\Debug\DAL.pdb
+C:\Users\ethiene.nobre\Desktop\LIBERTY\BRINDES\SISTEMA\BLL\bin\Debug\Entidades.pdb
+C:\Users\ethiene.nobre\Desktop\LIBERTY\BRINDES\SISTEMA\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\ethiene.nobre\Desktop\LIBERTY\BRINDES\SISTEMA\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\ethiene.nobre\Desktop\LIBERTY\BRINDES\SISTEMA\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\ethiene.nobre\Desktop\LIBERTY\BRINDES\SISTEMA\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\ethiene.nobre\Desktop\LIBERTY\BRINDES\SISTEMA\BLL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\ethiene.nobre\Desktop\LIBERTY\BRINDES\SISTEMA\BLL\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\ethiene.nobre\Desktop\LIBERTY\BRINDES\SISTEMA\BLL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\ethiene.nobre\Desktop\LIBERTY\BRINDES\SISTEMA\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\ethiene.nobre\Desktop\LIBERTY\BRINDES\SISTEMA\BLL\obj\Debug\BLL.dll
+C:\Users\ethiene.nobre\Desktop\LIBERTY\BRINDES\SISTEMA\BLL\obj\Debug\BLL.pdb
+C:\Users\ethiene.nobre\Desktop\SISTEMA\BLL\bin\Debug\BLL.dll
+C:\Users\ethiene.nobre\Desktop\SISTEMA\BLL\bin\Debug\BLL.pdb
+C:\Users\ethiene.nobre\Desktop\SISTEMA\BLL\bin\Debug\DAL.dll
+C:\Users\ethiene.nobre\Desktop\SISTEMA\BLL\bin\Debug\Entidades.dll
+C:\Users\ethiene.nobre\Desktop\SISTEMA\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\ethiene.nobre\Desktop\SISTEMA\BLL\bin\Debug\RaiCore.dll
+C:\Users\ethiene.nobre\Desktop\SISTEMA\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\ethiene.nobre\Desktop\SISTEMA\BLL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\ethiene.nobre\Desktop\SISTEMA\BLL\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\ethiene.nobre\Desktop\SISTEMA\BLL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\ethiene.nobre\Desktop\SISTEMA\BLL\bin\Debug\DAL.pdb
+C:\Users\ethiene.nobre\Desktop\SISTEMA\BLL\bin\Debug\Entidades.pdb
+C:\Users\ethiene.nobre\Desktop\SISTEMA\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\ethiene.nobre\Desktop\SISTEMA\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\ethiene.nobre\Desktop\SISTEMA\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\ethiene.nobre\Desktop\SISTEMA\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\ethiene.nobre\Desktop\SISTEMA\BLL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\ethiene.nobre\Desktop\SISTEMA\BLL\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\ethiene.nobre\Desktop\SISTEMA\BLL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\ethiene.nobre\Desktop\SISTEMA\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\ethiene.nobre\Desktop\SISTEMA\BLL\obj\Debug\BLL.dll
+C:\Users\ethiene.nobre\Desktop\SISTEMA\BLL\obj\Debug\BLL.pdb
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\IMO\SISTEMA\BLL\bin\Debug\BLL.dll
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\IMO\SISTEMA\BLL\bin\Debug\BLL.pdb
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\IMO\SISTEMA\BLL\bin\Debug\DAL.dll
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\IMO\SISTEMA\BLL\bin\Debug\Entidades.dll
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\IMO\SISTEMA\BLL\bin\Debug\RaiCore.dll
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\IMO\SISTEMA\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\IMO\SISTEMA\BLL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\IMO\SISTEMA\BLL\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\IMO\SISTEMA\BLL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\IMO\SISTEMA\BLL\bin\Debug\DAL.pdb
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\IMO\SISTEMA\BLL\bin\Debug\Entidades.pdb
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\IMO\SISTEMA\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\IMO\SISTEMA\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\IMO\SISTEMA\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\IMO\SISTEMA\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\IMO\SISTEMA\BLL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\IMO\SISTEMA\BLL\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\IMO\SISTEMA\BLL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\IMO\SISTEMA\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\IMO\SISTEMA\BLL\obj\Debug\BLL.dll
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\IMO\SISTEMA\BLL\obj\Debug\BLL.pdb
+C:\Users\paulo.borges\Documents\IMO\SISTEMA\BLL\bin\Debug\BLL.dll
+C:\Users\paulo.borges\Documents\IMO\SISTEMA\BLL\bin\Debug\BLL.pdb
+C:\Users\paulo.borges\Documents\IMO\SISTEMA\BLL\bin\Debug\DAL.dll
+C:\Users\paulo.borges\Documents\IMO\SISTEMA\BLL\bin\Debug\Entidades.dll
+C:\Users\paulo.borges\Documents\IMO\SISTEMA\BLL\bin\Debug\RaiCore.dll
+C:\Users\paulo.borges\Documents\IMO\SISTEMA\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\paulo.borges\Documents\IMO\SISTEMA\BLL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\paulo.borges\Documents\IMO\SISTEMA\BLL\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\paulo.borges\Documents\IMO\SISTEMA\BLL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\paulo.borges\Documents\IMO\SISTEMA\BLL\bin\Debug\DAL.pdb
+C:\Users\paulo.borges\Documents\IMO\SISTEMA\BLL\bin\Debug\Entidades.pdb
+C:\Users\paulo.borges\Documents\IMO\SISTEMA\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\paulo.borges\Documents\IMO\SISTEMA\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\paulo.borges\Documents\IMO\SISTEMA\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\paulo.borges\Documents\IMO\SISTEMA\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\paulo.borges\Documents\IMO\SISTEMA\BLL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\paulo.borges\Documents\IMO\SISTEMA\BLL\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\paulo.borges\Documents\IMO\SISTEMA\BLL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\paulo.borges\Documents\IMO\SISTEMA\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\paulo.borges\Documents\IMO\SISTEMA\BLL\obj\Debug\BLL.dll
+C:\Users\paulo.borges\Documents\IMO\SISTEMA\BLL\obj\Debug\BLL.pdb
+C:\Users\ethiene.nobre\Desktop\SISTEMA-MYSQL\BLL\bin\Debug\BLL.dll
+C:\Users\ethiene.nobre\Desktop\SISTEMA-MYSQL\BLL\bin\Debug\BLL.pdb
+C:\Users\ethiene.nobre\Desktop\SISTEMA-MYSQL\BLL\bin\Debug\DAL.dll
+C:\Users\ethiene.nobre\Desktop\SISTEMA-MYSQL\BLL\bin\Debug\Entidades.dll
+C:\Users\ethiene.nobre\Desktop\SISTEMA-MYSQL\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\ethiene.nobre\Desktop\SISTEMA-MYSQL\BLL\bin\Debug\RaiCore.dll
+C:\Users\ethiene.nobre\Desktop\SISTEMA-MYSQL\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\ethiene.nobre\Desktop\SISTEMA-MYSQL\BLL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\ethiene.nobre\Desktop\SISTEMA-MYSQL\BLL\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\ethiene.nobre\Desktop\SISTEMA-MYSQL\BLL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\ethiene.nobre\Desktop\SISTEMA-MYSQL\BLL\bin\Debug\DAL.pdb
+C:\Users\ethiene.nobre\Desktop\SISTEMA-MYSQL\BLL\bin\Debug\Entidades.pdb
+C:\Users\ethiene.nobre\Desktop\SISTEMA-MYSQL\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\ethiene.nobre\Desktop\SISTEMA-MYSQL\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\ethiene.nobre\Desktop\SISTEMA-MYSQL\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\ethiene.nobre\Desktop\SISTEMA-MYSQL\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\ethiene.nobre\Desktop\SISTEMA-MYSQL\BLL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\ethiene.nobre\Desktop\SISTEMA-MYSQL\BLL\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\ethiene.nobre\Desktop\SISTEMA-MYSQL\BLL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\ethiene.nobre\Desktop\SISTEMA-MYSQL\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\ethiene.nobre\Desktop\SISTEMA-MYSQL\BLL\obj\Debug\BLL.dll
+C:\Users\ethiene.nobre\Desktop\SISTEMA-MYSQL\BLL\obj\Debug\BLL.pdb
+C:\Users\ethiene.nobre\Desktop\buffalo\SISTEMA\BLL\bin\Debug\BLL.dll
+C:\Users\ethiene.nobre\Desktop\buffalo\SISTEMA\BLL\bin\Debug\BLL.pdb
+C:\Users\ethiene.nobre\Desktop\buffalo\SISTEMA\BLL\bin\Debug\DAL.dll
+C:\Users\ethiene.nobre\Desktop\buffalo\SISTEMA\BLL\bin\Debug\Entidades.dll
+C:\Users\ethiene.nobre\Desktop\buffalo\SISTEMA\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\ethiene.nobre\Desktop\buffalo\SISTEMA\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\ethiene.nobre\Desktop\buffalo\SISTEMA\BLL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\ethiene.nobre\Desktop\buffalo\SISTEMA\BLL\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\ethiene.nobre\Desktop\buffalo\SISTEMA\BLL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\ethiene.nobre\Desktop\buffalo\SISTEMA\BLL\bin\Debug\DAL.pdb
+C:\Users\ethiene.nobre\Desktop\buffalo\SISTEMA\BLL\bin\Debug\Entidades.pdb
+C:\Users\ethiene.nobre\Desktop\buffalo\SISTEMA\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\ethiene.nobre\Desktop\buffalo\SISTEMA\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\ethiene.nobre\Desktop\buffalo\SISTEMA\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\ethiene.nobre\Desktop\buffalo\SISTEMA\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\ethiene.nobre\Desktop\buffalo\SISTEMA\BLL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\ethiene.nobre\Desktop\buffalo\SISTEMA\BLL\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\ethiene.nobre\Desktop\buffalo\SISTEMA\BLL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\ethiene.nobre\Desktop\buffalo\SISTEMA\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\ethiene.nobre\Desktop\buffalo\SISTEMA\BLL\obj\Debug\BLL.dll
+C:\Users\ethiene.nobre\Desktop\buffalo\SISTEMA\BLL\obj\Debug\BLL.pdb
+D:\Users\ethiene.nobre\Desktop\PESSOAL\JOBS\buffalo\SISTEMA\BLL\bin\Debug\BLL.dll
+D:\Users\ethiene.nobre\Desktop\PESSOAL\JOBS\buffalo\SISTEMA\BLL\bin\Debug\BLL.pdb
+D:\Users\ethiene.nobre\Desktop\PESSOAL\JOBS\buffalo\SISTEMA\BLL\bin\Debug\DAL.dll
+D:\Users\ethiene.nobre\Desktop\PESSOAL\JOBS\buffalo\SISTEMA\BLL\bin\Debug\Entidades.dll
+D:\Users\ethiene.nobre\Desktop\PESSOAL\JOBS\buffalo\SISTEMA\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Users\ethiene.nobre\Desktop\PESSOAL\JOBS\buffalo\SISTEMA\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Users\ethiene.nobre\Desktop\PESSOAL\JOBS\buffalo\SISTEMA\BLL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Users\ethiene.nobre\Desktop\PESSOAL\JOBS\buffalo\SISTEMA\BLL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Users\ethiene.nobre\Desktop\PESSOAL\JOBS\buffalo\SISTEMA\BLL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Users\ethiene.nobre\Desktop\PESSOAL\JOBS\buffalo\SISTEMA\BLL\bin\Debug\DAL.pdb
+D:\Users\ethiene.nobre\Desktop\PESSOAL\JOBS\buffalo\SISTEMA\BLL\bin\Debug\Entidades.pdb
+D:\Users\ethiene.nobre\Desktop\PESSOAL\JOBS\buffalo\SISTEMA\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+D:\Users\ethiene.nobre\Desktop\PESSOAL\JOBS\buffalo\SISTEMA\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\Users\ethiene.nobre\Desktop\PESSOAL\JOBS\buffalo\SISTEMA\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\Users\ethiene.nobre\Desktop\PESSOAL\JOBS\buffalo\SISTEMA\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Users\ethiene.nobre\Desktop\PESSOAL\JOBS\buffalo\SISTEMA\BLL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Users\ethiene.nobre\Desktop\PESSOAL\JOBS\buffalo\SISTEMA\BLL\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\Users\ethiene.nobre\Desktop\PESSOAL\JOBS\buffalo\SISTEMA\BLL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\Users\ethiene.nobre\Desktop\PESSOAL\JOBS\buffalo\SISTEMA\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Users\ethiene.nobre\Desktop\PESSOAL\JOBS\buffalo\SISTEMA\BLL\obj\Debug\BLL.dll
+D:\Users\ethiene.nobre\Desktop\PESSOAL\JOBS\buffalo\SISTEMA\BLL\obj\Debug\BLL.pdb
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\SISTEMA_atualizado\BLL\bin\Debug\BLL.dll
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\SISTEMA_atualizado\BLL\bin\Debug\BLL.pdb
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\SISTEMA_atualizado\BLL\bin\Debug\DAL.dll
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\SISTEMA_atualizado\BLL\bin\Debug\Entidades.dll
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\SISTEMA_atualizado\BLL\bin\Debug\MySql.Data.dll
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\SISTEMA_atualizado\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\SISTEMA_atualizado\BLL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\SISTEMA_atualizado\BLL\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\SISTEMA_atualizado\BLL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\SISTEMA_atualizado\BLL\bin\Debug\DAL.pdb
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\SISTEMA_atualizado\BLL\bin\Debug\Entidades.pdb
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\SISTEMA_atualizado\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\SISTEMA_atualizado\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\SISTEMA_atualizado\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\SISTEMA_atualizado\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\SISTEMA_atualizado\BLL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\SISTEMA_atualizado\BLL\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\SISTEMA_atualizado\BLL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\SISTEMA_atualizado\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\SISTEMA_atualizado\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\SISTEMA_atualizado\BLL\obj\Debug\BLL.dll
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\SISTEMA_atualizado\BLL\obj\Debug\BLL.pdb
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\SISTEMA_atualizado\BLL\obj\Debug\BLL.csproj.CopyComplete

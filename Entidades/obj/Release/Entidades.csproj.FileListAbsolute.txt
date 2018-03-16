@@ -1,0 +1,4 @@
+D:\Área de Trabalho\controleEntregaSantander\Entidades\bin\Release\Entidades.dll
+D:\Área de Trabalho\controleEntregaSantander\Entidades\bin\Release\Entidades.pdb
+D:\Área de Trabalho\controleEntregaSantander\Entidades\obj\Release\Entidades.dll
+D:\Área de Trabalho\controleEntregaSantander\Entidades\obj\Release\Entidades.pdb

@@ -1,0 +1,85 @@
+W:\SISPEC\Entidades\bin\Debug\Entidades.dll
+W:\SISPEC\Entidades\bin\Debug\Entidades.pdb
+W:\SISPEC\Entidades\obj\Debug\Entidades.dll
+W:\SISPEC\Entidades\obj\Debug\Entidades.pdb
+W:\SISPEC\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+W:\MAG\Entidades\bin\Debug\Entidades.dll
+W:\MAG\Entidades\bin\Debug\Entidades.pdb
+W:\MAG\Entidades\obj\Debug\Entidades.dll
+W:\MAG\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Rai\Desktop\ExemploEstrutura\Entidades\bin\Debug\Entidades.dll
+C:\Users\Rai\Desktop\ExemploEstrutura\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Rai\Desktop\ExemploEstrutura\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Rai\Desktop\ExemploEstrutura\Entidades\obj\Debug\Entidades.dll
+C:\Users\Rai\Desktop\ExemploEstrutura\Entidades\obj\Debug\Entidades.pdb
+W:\ExemploEstrutura\Entidades\bin\Debug\Entidades.dll
+W:\ExemploEstrutura\Entidades\bin\Debug\Entidades.pdb
+W:\ExemploEstrutura\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+W:\ExemploEstrutura\Entidades\obj\Debug\Entidades.dll
+W:\ExemploEstrutura\Entidades\obj\Debug\Entidades.pdb
+D:\Biblioteca\ExemploEstrutura - .Net\Entidades\bin\Debug\Entidades.dll
+D:\Biblioteca\ExemploEstrutura - .Net\Entidades\bin\Debug\Entidades.pdb
+D:\Biblioteca\ExemploEstrutura - .Net\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Biblioteca\ExemploEstrutura - .Net\Entidades\obj\Debug\Entidades.dll
+D:\Biblioteca\ExemploEstrutura - .Net\Entidades\obj\Debug\Entidades.pdb
+D:\Área de Trabalho\controleEntrega\Entidades\bin\Debug\Entidades.dll
+D:\Área de Trabalho\controleEntrega\Entidades\bin\Debug\Entidades.pdb
+D:\Área de Trabalho\controleEntrega\Entidades\obj\Debug\Entidades.dll
+D:\Área de Trabalho\controleEntrega\Entidades\obj\Debug\Entidades.pdb
+D:\Área de Trabalho\controleEntrega\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Área de Trabalho\controleEntregaSantander\Entidades\bin\Debug\Entidades.dll
+D:\Área de Trabalho\controleEntregaSantander\Entidades\bin\Debug\Entidades.pdb
+D:\Área de Trabalho\controleEntregaSantander\Entidades\obj\Debug\Entidades.dll
+D:\Área de Trabalho\controleEntregaSantander\Entidades\obj\Debug\Entidades.pdb
+D:\Área de Trabalho\controleEntregaSantander\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+W:\controleEntregaSantander\Entidades\bin\Debug\Entidades.dll
+W:\controleEntregaSantander\Entidades\bin\Debug\Entidades.pdb
+W:\controleEntregaSantander\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+W:\controleEntregaSantander\Entidades\obj\Debug\Entidades.dll
+W:\controleEntregaSantander\Entidades\obj\Debug\Entidades.pdb
+S:\controleEntregaSantander\Entidades\bin\Debug\Entidades.dll
+S:\controleEntregaSantander\Entidades\bin\Debug\Entidades.pdb
+S:\controleEntregaSantander\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+S:\controleEntregaSantander\Entidades\obj\Debug\Entidades.dll
+S:\controleEntregaSantander\Entidades\obj\Debug\Entidades.pdb
+C:\Users\ethiene.nobre\Desktop\SANTANDER-MAQUINA\POSITIVADOR\BK- POSITIVADOR\controleEntregaSantanderBK\Entidades\bin\Debug\Entidades.dll
+C:\Users\ethiene.nobre\Desktop\SANTANDER-MAQUINA\POSITIVADOR\BK- POSITIVADOR\controleEntregaSantanderBK\Entidades\bin\Debug\Entidades.pdb
+C:\Users\ethiene.nobre\Desktop\SANTANDER-MAQUINA\POSITIVADOR\BK- POSITIVADOR\controleEntregaSantanderBK\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\ethiene.nobre\Desktop\SANTANDER-MAQUINA\POSITIVADOR\BK- POSITIVADOR\controleEntregaSantanderBK\Entidades\obj\Debug\Entidades.dll
+C:\Users\ethiene.nobre\Desktop\SANTANDER-MAQUINA\POSITIVADOR\BK- POSITIVADOR\controleEntregaSantanderBK\Entidades\obj\Debug\Entidades.pdb
+C:\Users\ethiene.nobre\Desktop\LIBERTY\BRINDES\SISTEMA\Entidades\bin\Debug\Entidades.dll
+C:\Users\ethiene.nobre\Desktop\LIBERTY\BRINDES\SISTEMA\Entidades\bin\Debug\Entidades.pdb
+C:\Users\ethiene.nobre\Desktop\LIBERTY\BRINDES\SISTEMA\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\ethiene.nobre\Desktop\LIBERTY\BRINDES\SISTEMA\Entidades\obj\Debug\Entidades.dll
+C:\Users\ethiene.nobre\Desktop\LIBERTY\BRINDES\SISTEMA\Entidades\obj\Debug\Entidades.pdb
+C:\Users\ethiene.nobre\Desktop\SISTEMA\Entidades\bin\Debug\Entidades.dll
+C:\Users\ethiene.nobre\Desktop\SISTEMA\Entidades\bin\Debug\Entidades.pdb
+C:\Users\ethiene.nobre\Desktop\SISTEMA\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\ethiene.nobre\Desktop\SISTEMA\Entidades\obj\Debug\Entidades.dll
+C:\Users\ethiene.nobre\Desktop\SISTEMA\Entidades\obj\Debug\Entidades.pdb
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\IMO\SISTEMA\Entidades\bin\Debug\Entidades.dll
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\IMO\SISTEMA\Entidades\bin\Debug\Entidades.pdb
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\IMO\SISTEMA\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\IMO\SISTEMA\Entidades\obj\Debug\Entidades.dll
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\IMO\SISTEMA\Entidades\obj\Debug\Entidades.pdb
+C:\Users\ethiene.nobre\Desktop\SISTEMA-MYSQL\Entidades\bin\Debug\Entidades.dll
+C:\Users\ethiene.nobre\Desktop\SISTEMA-MYSQL\Entidades\bin\Debug\Entidades.pdb
+C:\Users\ethiene.nobre\Desktop\SISTEMA-MYSQL\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\ethiene.nobre\Desktop\SISTEMA-MYSQL\Entidades\obj\Debug\Entidades.dll
+C:\Users\ethiene.nobre\Desktop\SISTEMA-MYSQL\Entidades\obj\Debug\Entidades.pdb
+C:\Users\ethiene.nobre\Desktop\buffalo\SISTEMA\Entidades\bin\Debug\Entidades.dll
+C:\Users\ethiene.nobre\Desktop\buffalo\SISTEMA\Entidades\bin\Debug\Entidades.pdb
+C:\Users\ethiene.nobre\Desktop\buffalo\SISTEMA\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\ethiene.nobre\Desktop\buffalo\SISTEMA\Entidades\obj\Debug\Entidades.dll
+C:\Users\ethiene.nobre\Desktop\buffalo\SISTEMA\Entidades\obj\Debug\Entidades.pdb
+D:\Users\ethiene.nobre\Desktop\PESSOAL\JOBS\buffalo\SISTEMA\Entidades\bin\Debug\Entidades.dll
+D:\Users\ethiene.nobre\Desktop\PESSOAL\JOBS\buffalo\SISTEMA\Entidades\bin\Debug\Entidades.pdb
+D:\Users\ethiene.nobre\Desktop\PESSOAL\JOBS\buffalo\SISTEMA\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Users\ethiene.nobre\Desktop\PESSOAL\JOBS\buffalo\SISTEMA\Entidades\obj\Debug\Entidades.dll
+D:\Users\ethiene.nobre\Desktop\PESSOAL\JOBS\buffalo\SISTEMA\Entidades\obj\Debug\Entidades.pdb
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\SISTEMA_atualizado\Entidades\bin\Debug\Entidades.dll
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\SISTEMA_atualizado\Entidades\bin\Debug\Entidades.pdb
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\SISTEMA_atualizado\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\SISTEMA_atualizado\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\SISTEMA_atualizado\Entidades\obj\Debug\Entidades.dll
+C:\Users\antonio.gonzalez\Desktop\Antonio Gonzalez\toni\SISTEMA_atualizado\Entidades\obj\Debug\Entidades.pdb

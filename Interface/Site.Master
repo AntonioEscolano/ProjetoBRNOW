@@ -1,0 +1,57 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Interface.Site" %>
+<!doctype html>
+<html>
+<head id="Head1" runat="server">
+    <title>Projeto J</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <!-- Preloader -->
+    <section>
+        <div class="leftpanel">
+            <div class="logopanel">
+                <h1><img src="images/logo.jpg" style="margin-top: -3px; color:#000;" />Projeto J </h1>
+            </div>
+            <!-- logopanel -->
+            <div class="leftpanelinner">
+                <!-- This is only visible to small devices -->
+                <div class="visible-xs hidden-sm hidden-md hidden-lg">
+                    <h5 class="sidebartitle actitle">Account</h5>
+                    <ul class="nav nav-pills nav-stacked nav-bracket mb30">
+                        <li><a href="#"><i class="fa fa-user"></i><span>Profile</span></a></li>
+                        <li><a href="#"><i class="fa fa-cog"></i><span>Account Settings</span></a></li>
+                        <li><a href="#"><i class="fa fa-question-circle"></i><span>Help</span></a></li>
+                    </ul>
+                </div>
+                <h5 class="sidebartitle">Navigation</h5>
+                <ul class="nav nav-pills nav-stacked nav-bracket">
+                    <li class="active"><a href="Home.aspx"><i class="fa fa-home"></i><span>Dashboard</span></a></li>
+                    <!--<li><a href="Cadastro_Produto.aspx"><i class="fa fa-th-list"></i><span>Cadastro Produto</span></a></li>-->
+                    <li><a href="Cadastro_Imovel.aspx"><i class="fa fa-th-list"></i><span>Cadastrar Imóveis</span></a></li>
+                    <li><a href="Lista_Imovel.aspx"><i class="fa fa-th-list"></i><span>Listar Imóveis</span></a></li>
+                    <li><a href="Produto_Lista.aspx"><i class="fa fa-th-list"></i><span>Listar Produto</span></a></li>
+                    <li><a href="Upload_Foto.aspx"><i class="fa fa-th-list"></i><span>Enviar Foto</span></a></li>
+                    <li><a href="Editar_Produto.aspx"><i class="fa fa-th-list"></i><span>Editar Produto</span></a></li>
+                    <li><a href="Logout.aspx"><i class="fa fa-th-list"></i><span>Sair</span></a></li>
+                </ul>
+                <!-- infosummary -->
+            </div>
+            <!-- leftpanelinner -->
+        </div>
+        <!-- leftpanel -->
+        <div class="mainpanel">
+            <div class="headerbar">
+                <a class="menutoggle"><i class="fa fa-bars"></i></a>
+            </div>
+            <!-- headerbar -->
+            <!-- contentpanel -->
+            <form id="form1" runat="server" class="form-horizontal form-bordered">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </form>
+            <!-- contentpanel -->
+        </div>
+    </section>
+</body>
+</html>
